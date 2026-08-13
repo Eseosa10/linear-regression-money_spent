@@ -12,7 +12,7 @@ Kurzes Projekt zur Vorhersage des jährlichen Umsatzes von E-Commerce-Kunden auf
 5. Residuenanalyse: Histogramm und Q-Q-Plot zur Prüfung der Modellannahmen
 # Set up
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 jupyter notebook regression.ipynb
 ```
 # Limitationen
